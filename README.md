@@ -1,8 +1,4 @@
-# Undergraduate-Y2S2-Path_Finding_Using_Astar
-
-Author: Lim Yi Jing
-
-This is a project developed in undergraduate Year 2 - Semester 2.
+# Path_Finding_Using_Astar
 
 A* Search pathfinding will be performed to find the targets from the starting  point in a given environment. 2 different A* Search for each map using 2 different heuristic functions, which is  Euclidean Distance Heuristic and Manhattan Distance Heuristic will be performed respectively.
 
